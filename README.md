@@ -48,6 +48,7 @@ console.table
 https://youtu.be/YWMuhmf9JmY
 
 ## Deployed link
+https://github.com/zohamumtaz/employee-tracker
 
 ## Screenshots
 ![Screenshot1](./images/Screenshot1.png)
