@@ -281,9 +281,9 @@ async function main() {
                 break;}case 'View all departments': {
                 await showdepartment();
                 break;}case 'View all employees': {
-                await shoeemployee();
+                await showemployee();
                 break;}case 'View all employees by department': {
-                await shoeempdepartment();
+                await showbydepartment();
                 break; }case 'View all roles': {
                 await showrole(); break;}case 'Exit': {
                 exitLoop = true;
