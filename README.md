@@ -41,7 +41,8 @@ node
 inquirer
 mysql
 console.table
-
+## GIF
+![Demo of app](./assets/gif.gif "Gif of the employee tracker.")
 
 ## Deployed link
 
