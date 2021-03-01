@@ -50,7 +50,7 @@ https://youtu.be/YWMuhmf9JmY
 ## Deployed link
 
 ## Screenshots
-![Screenshot1](./images/screenshot1.png)
+![Screenshot1](./images/Screenshot1.png)
 
 ## Author 
 Zoha Mumtaz
