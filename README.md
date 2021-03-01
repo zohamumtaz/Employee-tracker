@@ -44,6 +44,9 @@ console.table
 ## GIF
 ![Demo of app](./assets/gif.gif "Gif of the employee tracker.")
 
+## Video of the Assignment 
+https://youtu.be/YWMuhmf9JmY
+
 ## Deployed link
 
 ## Screenshots
