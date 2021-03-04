@@ -46,10 +46,10 @@ console.table
 
 ## Video of the Assignment 
 
+https://youtu.be/EYgtZoBfjUE
 
 ## Deployed link
-
-
+https://github.com/zohamumtaz/employee-tracker
 ## Screenshots
 ![Screenshot1](./images/Screenshot1.png)
 
