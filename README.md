@@ -41,12 +41,17 @@ node
 inquirer
 mysql
 console.table
+## GIF
+![Demo of app](./assets/gif.gif "Gif of the employee tracker.")
 
+## Video of the Assignment 
+https://youtu.be/YWMuhmf9JmY
 
 ## Deployed link
+https://github.com/zohamumtaz/employee-tracker
 
 ## Screenshots
-![Screenshot1](./images/screenshot1.png)
+![Screenshot1](./images/Screenshot1.png)
 
 ## Author 
 Zoha Mumtaz
